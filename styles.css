@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.double-table,td,tr,th{
+	border:1px double black;
+	text-align:center;
+}
+.invert{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
